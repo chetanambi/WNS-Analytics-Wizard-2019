@@ -20,7 +20,7 @@ This is the final solution stacks AV_WNS_forkkv2_CBstack_folds.csv & sub2_10fold
 and produces final submission csv file.
 
 Final submission:
-- stack_sol1_soll2_final.csv
+- ensemble_chetan_rajat_final.csv
 
 # Leaderboard
 ![image](https://user-images.githubusercontent.com/37707687/64086335-3795f700-cd55-11e9-9c26-9a302a464023.png)
